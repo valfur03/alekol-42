@@ -15,6 +15,7 @@
   "devDependencies": {
     "eslint-config-custom": "workspace:*",
     "prettier": "latest",
+    "tsconfig": "workspace:*",
     "turbo": "latest"
   },
   "engines": {
