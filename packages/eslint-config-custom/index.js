@@ -6,7 +6,6 @@ module.exports = {
   },
   plugins: ["@typescript-eslint/eslint-plugin"],
   extends: [
-    "next",
     "turbo",
     "prettier",
     "plugin:@typescript-eslint/recommended",
